@@ -1,0 +1,20 @@
+{
+  "name": "cpp-like-js",
+  "version": "1.0.0",
+  "description": "C++ STL Now In JS With Same Syntax + Richer Lib + Easiest Integration",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/adityaslg2001/cpp-like-js/"
+  },
+  "homepage": "https://github.com/adityaslg2001/cpp-like-js/blob/main/README.md",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
